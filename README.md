@@ -1,4 +1,4 @@
-# Meshtastic IRC Bridge
+# Akita Meshtastic IRC Bridge
 
 This project provides a bridge between the Meshtastic mesh network and an IRC (Internet Relay Chat) server. It allows users to send and receive messages between Meshtastic devices and an IRC channel.
 
@@ -79,6 +79,3 @@ This project provides a bridge between the Meshtastic mesh network and an IRC (I
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## License
-
-This project is licensed under the MIT License.
